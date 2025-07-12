@@ -66,9 +66,9 @@ test-output/index.html
 ### Step 5: View Allure Report
 
 After execution, doing this following steps:
-```
-Go to offical website of allure report
-```
+
+<a href="https://allurereport.org/docs/install-for-windows/" target="_blank">👉 Click Here to go to offical website of allure report</a>
+
 Then install allure, by following command:
 ```cmd
 scoop install allure
