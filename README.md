@@ -6,7 +6,7 @@
 
 ## 📁 What's Included
 
-- ✅ **Automated Test Cases** – Covers login functionality, add to cart, and cart validation  
+- ✅ **Automated Test Cases** – Covers login functionality, add to cart, and view cart 
 - ✅ **Page Object Model (POM)** – Ensures maintainability and scalability of the code  
 - ✅ **Selenium + Java + TestNG** – Core tech stack for browser automation  
 - ✅ **Allure Report Integration** – Elegant, detailed test reporting  
@@ -77,7 +77,7 @@ Then check version, by following command:
 ```cmd
 allure --version
 ```
-Then go to the source file to generate allure report, by following command:
+Then go to the source file of project to generate allure report, by following command:
 ```cmd
 allure serve allure-results
 ```
