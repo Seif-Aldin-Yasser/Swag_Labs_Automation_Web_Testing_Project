@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-12T13:04:11 EEST" name="Default Suite" finished-at="2025-07-12T13:04:14 EEST" duration-ms="3512">
+    <groups>
+    </groups>
+    <test started-at="2025-07-12T13:04:11 EEST" name="Swag_Labs_Automation_Testing" finished-at="2025-07-12T13:04:14 EEST" duration-ms="3512">
+      <class name="tests.TestPage">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:tests.TestPage@55a147cc]" started-at="2025-07-12T13:04:11 EEST" name="setUp" finished-at="2025-07-12T13:04:13 EEST" duration-ms="2398" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="positiveLoginScenario()[pri:1, instance:tests.TestPage@55a147cc]" started-at="2025-07-12T13:04:13 EEST" name="positiveLoginScenario" finished-at="2025-07-12T13:04:14 EEST" duration-ms="584" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveLoginScenario -->
+        <test-method signature="positiveAddToCartScenario()[pri:2, instance:tests.TestPage@55a147cc]" started-at="2025-07-12T13:04:14 EEST" name="positiveAddToCartScenario" finished-at="2025-07-12T13:04:14 EEST" duration-ms="93" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveAddToCartScenario -->
+        <test-method signature="positiveClickCartLinkScenario()[pri:3, instance:tests.TestPage@55a147cc]" started-at="2025-07-12T13:04:14 EEST" name="positiveClickCartLinkScenario" finished-at="2025-07-12T13:04:14 EEST" duration-ms="67" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- positiveClickCartLinkScenario -->
+        <test-method is-config="true" signature="terminate()[pri:0, instance:tests.TestPage@55a147cc]" started-at="2025-07-12T13:04:14 EEST" name="terminate" finished-at="2025-07-12T13:04:14 EEST" duration-ms="188" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terminate -->
+      </class> <!-- tests.TestPage -->
+    </test> <!-- Swag_Labs_Automation_Testing -->
+  </suite> <!-- Default Suite -->
+</testng-results>
