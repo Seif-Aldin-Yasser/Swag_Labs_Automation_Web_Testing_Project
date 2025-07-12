@@ -67,7 +67,7 @@ test-output/index.html
 
 After execution, doing this following steps:
 
-<a href="https://allurereport.org/docs/install-for-windows/" target="_blank">👉 Click Here to go to offical website of allure report</a>
+<a href="https://allurereport.org/docs/install-for-windows/" target="_blank">👉 Click Here to go to official website of allure report</a>
 
 Then install allure, by following command:
 ```cmd
@@ -76,4 +76,8 @@ scoop install allure
 Then check version, by following command:
 ```cmd
 allure --version
+```
+Then go to the source file to generate allure report, by following command:
+```cmd
+allure serve allure-results
 ```
