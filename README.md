@@ -57,7 +57,7 @@ mvn test
 
 ### Step 4: View Test Report
 
-After execution, view the default TestNG HTML report in:
+After execution, view the default TestNG HTML report in this file destination:
 
 ```
 test-output/index.html
