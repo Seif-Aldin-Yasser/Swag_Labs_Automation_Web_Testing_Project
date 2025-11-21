@@ -8,7 +8,7 @@
 
 - ✅ **Automated Test Cases** – Covers login functionality, add to cart, and view cart 
 - ✅ **Page Object Model (POM)** – Ensures maintainability and scalability of the code  
-- ✅ **Selenium + Java + TestNG** – Core tech stack for browser automation  
+- ✅ **Selenium + Java + TestNG** – Core tech stack for browser automation and manage test execution flow
 - ✅ **Allure Report Integration** – Elegant, detailed test reporting  
 - ✅ **TestNG Report** – Default HTML test execution summary  
 - ✅ **Maven** – For project build and dependency management  
