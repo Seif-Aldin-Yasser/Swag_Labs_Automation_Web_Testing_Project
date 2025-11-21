@@ -19,9 +19,9 @@
 
 ## ⚙️ Automation Testing
 
-- 🔐 **Login**: Verify login functionality using valid credentials  
-- 🛒 **Add to Cart**: Select a product and verify that it is added correctly  
-- 🧺 **View Cart**: Click on the cart icon and confirm that added items are displayed 
+- 🔐 **Login**– Verify login functionality using valid credentials  
+- 🛒 **Add to Cart**– Select a product and verify that it is added correctly  
+- 🧺 **View Cart**– Click on the cart icon and confirm that added items are displayed 
 ---
 
 ## ⚙️ How to Run Automated Tests (Maven + TestNG)
