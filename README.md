@@ -14,7 +14,7 @@
 - ✅ **Test Execution Management** – Manage test suites and execution flow using TestNG
 - ✅ **Test Reports** – Generated detailed execution reports using TestNG and Allure Report
 - ✅ **Maven Integration** – Managed project dependencies, build process, and test execution
-- ✅ **Automation Project Documentation** – Included setup instructions and execution steps
+- ✅ **Project Documentation** – Included setup instructions and execution steps
 ---
 
 ---
