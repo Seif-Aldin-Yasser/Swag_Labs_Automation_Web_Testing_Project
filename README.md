@@ -6,13 +6,15 @@
 
 ## 📁 What's Included
 
-- ✅ **Automated Test Cases** – Covers login functionality, add to cart, and view cart 
-- ✅ **Page Object Model (POM)** – Ensures maintainability and scalability of the code  
-- ✅ **Selenium + Java + TestNG** – Core tech stack for browser automation and manage test execution flow
-- ✅ **Allure Report Integration** – Elegant, detailed test reporting  
-- ✅ **TestNG Report** – Default HTML test execution summary  
-- ✅ **Maven** – For project build and dependency management  
-- ✅ **README Instructions** – Setup and test execution guide
+- ✅ **Web UI Automation Testing** – Automate user flows including authentication and shopping cart scenarios
+- ✅ **Test Automation Framework** – Build using Selenium WebDriver with Java and TestNG for structured test execution
+- ✅ **Page Object Model (POM)** – Implemente to improve code reusability, readability, and maintainability
+- ✅ **Test Cases & Validations** – Covered scenarios and verified expected UI behavior using assertions
+- ✅ **Cross-Browser Testing** – Configure to execute tests on Chrome, Edge, and Firefox browsers
+- ✅ **Test Execution Management** – Manage test suites and execution flow using TestNG
+- ✅ **Test Reports** – Generated detailed execution reports using TestNG and Allure Report
+- ✅ **Maven Integration** – Managed project dependencies, build process, and test execution
+- ✅ **Automation Project Documentation** – Included setup instructions and execution steps
 ---
 
 ---
