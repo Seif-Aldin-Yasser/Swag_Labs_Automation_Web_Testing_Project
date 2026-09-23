@@ -1,4 +1,4 @@
-## 💻Swag Labs - Automation Web Testing Project
+## 💻Swag Labs - Web Automation Test Project
 ## 🔗 Live Demo
 <a href="https://www.saucedemo.com/" target="_blank">👉 Click Here to View</a>
 
